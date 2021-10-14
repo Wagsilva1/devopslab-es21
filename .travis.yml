@@ -22,7 +22,7 @@ deploy:
   provider: heroku
   api_key: $HEROKU_API_KEY
   edge: true 
-  app: ESCREVA_AQUI_SUA_APP_DO_HEROKU
+  app: devopslab-wagner
   on:
       branch: main
 
